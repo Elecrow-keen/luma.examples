@@ -33,7 +33,7 @@ Log out and in again and clone this repository::
   $ git clone https://github.com/rm-hull/luma.examples.git
   $ cd luma.examples
 
-Finally, install the luma libraries using::
+Finally, install the luma libraries using::(if shows:'sudo: pip: command not found', run (sudo apt-get install python-pip) and go on )
 
   $ sudo -H pip install -e .
 
